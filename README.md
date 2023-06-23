@@ -1,6 +1,7 @@
 <h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=juansebastiann&show_icons=true&locale=en" alt="juansebastiann" /></p>
 
 <div align="left">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
