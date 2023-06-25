@@ -5,6 +5,7 @@
 <h3 align="left">👩‍💻  About Me</h3>
 
 ###
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=juansebastiann&label=Profile%20views&color=0e75b6&style=flat" alt="juansebastiann" /> </p>
 
 <p align="left">My name Juan Sebastian Khan <br>I'm a student of University of Sumatera Utara, majoring Informatics Engineering.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
 
