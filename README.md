@@ -7,11 +7,12 @@
 ###
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=juansebastiann&label=Profile%20views&color=0e75b6&style=flat" alt="juansebastiann" /> </p>
 
-<p align="left">My name Juan Sebastian Khan <br>I'm a student of University of Sumatera Utara, majoring Informatics Engineering.<br><br>- 🔭 I’m working as ...<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I ...</p>
+<p align="left">Hello my name Juan Sebastian Khan<br>- 🔭 I am a student of Universitas Sumatera Utara, majoring informatics engineering <br>
+  - ✉️  You can contact me at sebastiankhan241@gmail.com <br> - 📚 I'm currently learning Mobile Development <br>- ⚡ In my free time I read books.</p>
 
 ###
 
-<img align="left" height="300" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+<img align="left" height="300" src="https://raw.githubusercontent.com/juansebastiann/juansebastiann/main/profile.jpeg"  />
 
 ###
 
