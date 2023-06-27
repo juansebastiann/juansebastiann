@@ -9,7 +9,7 @@
 
 <p align="left">Hello my name Juan Sebastian Khan<br>
   - 🔭 I am a student of Universitas Sumatera Utara, majoring informatics engineering <br>
-  - ✉️  You can contact me at <a href="sebastiankhan241@gmail.com">sebastiankhan241@gmail.com</a> <br> 
+  - ✉️  You can contact me at <a href="mailto:sebastiankhan241@gmail.com">sebastiankhan241@gmail.com</a> <br> 
   - 📚 I'm currently learning Mobile Development <br>
   - ⚡ In my free time I read books.</p>
 
