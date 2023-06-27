@@ -66,7 +66,7 @@
 ###
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/juan-sebastian-b0b622254/" target="_blank">
+  <a href="https://www.linkedin.com/in/juansebastiankhan" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="42" height="30" alt="linkedin logo"  />
   </a>
   <a href="https://www.instagram.com/juansebasstiann_/" target="_blank">
